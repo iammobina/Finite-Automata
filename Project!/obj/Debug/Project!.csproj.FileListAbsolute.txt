@@ -1,0 +1,14 @@
+C:\Users\Mobina\Documents\Visual Studio 2017\Projects\Project!\Project!\bin\Debug\Project!.exe.config
+C:\Users\Mobina\Documents\Visual Studio 2017\Projects\Project!\Project!\bin\Debug\Project!.exe
+C:\Users\Mobina\Documents\Visual Studio 2017\Projects\Project!\Project!\bin\Debug\Project!.pdb
+C:\Users\Mobina\Documents\Visual Studio 2017\Projects\Project!\Project!\obj\Debug\Project!.csprojAssemblyReference.cache
+C:\Users\Mobina\Documents\Visual Studio 2017\Projects\Project!\Project!\obj\Debug\Project!.csproj.CoreCompileInputs.cache
+C:\Users\Mobina\Documents\Visual Studio 2017\Projects\Project!\Project!\obj\Debug\Project!.exe
+C:\Users\Mobina\Documents\Visual Studio 2017\Projects\Project!\Project!\obj\Debug\Project!.pdb
+C:\Users\AVAJANG\Desktop\New folder (2)\iammobina1\Project!\Project!\bin\Debug\Project!.exe.config
+C:\Users\AVAJANG\Desktop\New folder (2)\iammobina1\Project!\Project!\bin\Debug\Project!.exe
+C:\Users\AVAJANG\Desktop\New folder (2)\iammobina1\Project!\Project!\bin\Debug\Project!.pdb
+C:\Users\AVAJANG\Desktop\New folder (2)\iammobina1\Project!\Project!\obj\Debug\Project!.csprojAssemblyReference.cache
+C:\Users\AVAJANG\Desktop\New folder (2)\iammobina1\Project!\Project!\obj\Debug\Project!.csproj.CoreCompileInputs.cache
+C:\Users\AVAJANG\Desktop\New folder (2)\iammobina1\Project!\Project!\obj\Debug\Project!.exe
+C:\Users\AVAJANG\Desktop\New folder (2)\iammobina1\Project!\Project!\obj\Debug\Project!.pdb
